@@ -1,4 +1,4 @@
-package correct;
+package wright;
 
 public class Worker implements IWorker, IEatableWorker, IPayableWorker {
     @Override

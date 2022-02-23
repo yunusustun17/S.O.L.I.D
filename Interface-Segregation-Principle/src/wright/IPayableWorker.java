@@ -1,4 +1,4 @@
-package correct;
+package wright;
 
 public interface IPayableWorker {
     void pay();

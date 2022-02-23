@@ -1,4 +1,4 @@
-package correct;
+package wright;
 
 public class EmployeeManager {
     public void addEmployee(IDatabase database, Employee employee) {

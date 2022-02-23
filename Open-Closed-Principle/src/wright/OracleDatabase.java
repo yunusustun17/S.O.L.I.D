@@ -1,4 +1,4 @@
-package correct;
+package wright;
 
 public class OracleDatabase implements IDatabase {
     @Override

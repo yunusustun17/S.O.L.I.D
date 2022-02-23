@@ -1,4 +1,4 @@
-package correct;
+package wright;
 
 public class FileLogger extends Logger {
     @Override

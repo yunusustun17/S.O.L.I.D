@@ -1,4 +1,4 @@
-package correct;
+package wright;
 
 public abstract class ConnectableLogger extends Logger {
     public abstract void openConnection();
